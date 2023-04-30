@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582184796812",
+    "project_id": "utspemmob",
+    "storage_bucket": "utspemmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582184796812:android:a4513c6e257f3331e5f1a9",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582184796812-i8epa4glqa0885q95ea29o04jn83qiqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KSdUBFpwSfPJJpPB4676VZ77m4tsbJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582184796812-i8epa4glqa0885q95ea29o04jn83qiqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
